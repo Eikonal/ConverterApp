@@ -1,0 +1,4 @@
+#ifndef DATATYPES_HXX
+#define DATATYPES_HXX
+
+#endif // DATATYPES_HXX
